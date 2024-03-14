@@ -1,7 +1,7 @@
 {
   "name": "@libphamton/chatfanpage",
-  "version": "1.0.3",
-  "description": "connect to api tiwtter",
+  "version": "1.0.4",
+  "description": "connect to api chatfanpage",
   "main": "lib/index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
