@@ -22,6 +22,5 @@
   },
   "homepage": "https://github.com/libphamton/chatfanpage#readme",
   "dependencies": {
-    "api-facebooknew": "^1.0.4"
   }
 }
