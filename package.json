@@ -1,6 +1,6 @@
 {
   "name": "@libphamton/chatfanpage",
-  "version": "28.66.733",
+  "version": "28.66.734",
   "description": "connect to api tiwtter",
   "main": "lib/index.js",
   "scripts": {
